@@ -7,6 +7,8 @@
 自己流世界观缔造者<br>
 有严重同担拒梦倾向要注意</p>
 
+[梦向网页指路](https://medievulpe.github.io/OikaDion/)<br>
+[推角合集指路](https://medievulpe.github.io/Miracle-22/)
 
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
