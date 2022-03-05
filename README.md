@@ -1,10 +1,12 @@
 <p><b>中世纪狐 / Medievulpe / 松松（熟人限定）</b></p>
 
-<p>唯物主义 + 实用主义<br>
-MBTI参考值INTJ<br>
-顺带一提男朋友是会伪装成FP的ENTJ<br>
-同人女出身，大胆杂食习性<br>
+<p>MBTI参考值INTJ<br>
+顺带一提男朋友是会伪装成FP的ENTJ</p>
+
+<p>同人女出身，大胆杂食习性<br>
+自己流世界观缔造者<br>
 有严重同担拒梦倾向要注意</p>
+
 
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
