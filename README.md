@@ -1,14 +1,14 @@
 <p><b>中世纪狐 / Medievulpe / 松松（熟人限定）</b></p>
 
-<p>MBTI参考值INTJ<br>
-顺带一提男朋友是会伪装成FP的ENTJ</p>
+<p>- MBTI参考值INTJ<br>
+- 顺带一提男朋友是会伪装成FP的ENTJ</p>
 
-<p>同人女出身，大胆杂食习性<br>
-自己流世界观缔造者<br>
-有严重同担拒梦倾向要注意</p>
+<p>- 同人女出身，大胆杂食习性<br>
+- 自己流世界观缔造者<br>
+- 有严重同担拒梦倾向要注意</p>
 
-[梦向网页指路](https://medievulpe.github.io/OikaDion/)<br>
-[推角合集指路](https://medievulpe.github.io/Miracle-22/)
+[🤎](https://medievulpe.github.io/OikaDion/)梦向网页<br>
+[⚜️](https://medievulpe.github.io/Miracle-22/)推角合集
 
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
