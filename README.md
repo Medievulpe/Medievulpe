@@ -8,7 +8,7 @@
   - 有严重<b>同担拒梦</b>倾向要注意</p>
 
 [🤎](https://medievulpe.github.io/OikaDion/)梦向网页<br>
-[⚜️](https://medievulpe.github.io/Miracle-22/)推角合集
+[⚜️](https://medievulpe.github.io/Miracle-22/)推角总览
 
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
