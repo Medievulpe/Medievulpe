@@ -5,7 +5,7 @@
 
 <p>- 同人女出身，大胆杂食习性<br>
 - 自己流世界观缔造者<br>
-  - 有严重<b>同担拒梦</b>倾向要注意</p>
+  - 有严重同担拒梦倾向要注意</p>
 
 [🤎](https://medievulpe.github.io/OikaDion/)梦向网页<br>
 [⚜️](https://medievulpe.github.io/Miracle-22/)推角总览
