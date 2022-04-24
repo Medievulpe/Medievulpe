@@ -1,6 +1,6 @@
 <p><b>中世纪狐 / Medievulpe / 松松（熟人限定）</b></p>
 
-<p>- MBTI参考值INTJ<br>
+<p>- MBTI（刻板印象）姑且是INTJ<br>
 - 顺带一提男朋友是会伪装成FP的ENTJ</p>
 
 <p>- 同人女出身，大胆杂食习性<br>
