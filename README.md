@@ -1,5 +1,7 @@
 <p><b>中世纪狐 / Medievulpe / 松松（熟人限定）</b></p>
 
+---
+##### Selfie
 <p>- MBTI（刻板印象）姑且是INTJ<br>
 - 顺带一提男朋友是会伪装成FP的ENTJ</p>
 
@@ -7,12 +9,14 @@
 - 自己流世界观缔造者<br>
   - 有严重同担拒梦倾向要注意</p>
 
+---
+##### Repository
 [🤎](https://medievulpe.github.io/OikaDion/)梦向网页<br>
 [⚜️](https://medievulpe.github.io/Miracle-22/)推角总览
 
----
 [☢️](https://medievulpe.github.io/ROC/)收束式辐射<br>
 [✝️](https://medievulpe.github.io/LD/)连锁失衡
+
 
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
