@@ -1,4 +1,4 @@
-<p><b>中世纪狐 / Medievulpe / 松松（熟人限定）</b></p>
+<p><b>中世纪狐 / Medievulpes / 松松（熟人限定）</b></p>
 
 ---
 ##### Selfie
@@ -10,13 +10,13 @@
   - 有严重同担拒梦倾向要注意</p>
 
 ##### Repository
-[🤎](https://medievulpe.github.io/OikaDion/)梦向网页<br>
-[⚜️](https://medievulpe.github.io/Miracle-22/)推角总览
+[🤎](https://medievulpes.github.io/OikaDion/)梦向网页<br>
+[⚜️](https://medievulpes.github.io/Miracle-22/)推角总览
 
 ##### OC
-[🔴](https://medievulpe.github.io/LD/)连锁失衡<br>
-[🟢](https://medievulpe.github.io/RC/)收束辐射<br>
-[🔵](https://medievulpe.github.io/ME/)月色逃亡
+[🔴](https://medievulpes.github.io/LD/)连锁失衡<br>
+[🟢](https://medievulpes.github.io/RC/)收束辐射<br>
+[🔵](https://medievulpes.github.io/ME/)月色逃亡
 
 
 
