@@ -2,22 +2,29 @@
 
 ---
 ##### Selfie
-<p>- MBTI~~快速刻板印象~~姑且是INTJ</p>
+<p>
+  - MBTI（快速刻板印象）姑且是INTJ
+</p>
 
-<p>- 同人女出身，大胆杂食习性<br>
-- 自己流世界观缔造者<br>
-  - 有严重同担拒梦倾向要注意</p>
+<p>
+  - 同人女出身，大胆杂食习性<br>
+  - 自己流世界观缔造者<br>
+  - 有严重同担拒梦倾向要注意
+</p>
 
 ##### Repository
 [🤎](https://medievulpes.github.io/OikaDion/)梦向网页<br>
-[⚜️](https://medievulpes.github.io/Miracle-22/)推角总览
+[⚜️](https://medievulpes.github.io/Miracle-22/)推角总览（更新中）
 
 ##### OC
-[🔴](https://medievulpes.github.io/LD/)连锁失衡<br>
-[🟢](https://medievulpes.github.io/RC/)收束辐射<br>
-[🔵](https://medievulpes.github.io/ME/)月色逃亡
+[🔴](https://medievulpes.github.io/LD/)连锁失衡 -Vampire Side-<br>
+[🟢](https://medievulpes.github.io/RC/)收束辐射 -Human Side-<br>
+[🔵](https://medievulpes.github.io/ME/)月色逃亡 -Werewolf Side-<br>
 
-
+##### FAQ
+<p>
+To be added
+</p>
 
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
