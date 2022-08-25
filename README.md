@@ -10,7 +10,7 @@
 </p>
 
 ##### Repository
-[🤎](https://medievulpes.github.io/OikaDion/)梦向网页 <code>💮更新中/Always Updating</code><br>
+[🤎](https://medievulpes.github.io/OikaDion/)梦向网页 <code>💮长期更新/Always Updating</code><br>
 [⚜️](https://medievulpes.github.io/Miracle-22/)推角总览 <code>🚧建设中/Under Construction</code>
 
 ##### OC
