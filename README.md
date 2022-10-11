@@ -1,4 +1,3 @@
-![BANNER](https://medievulpes.github.io/Miracle-22/img/banner.png "中世纪狐")
 <p><b>中世纪狐 / Medievulpes / 松松（熟人限定）</b></p>
 
 ---
@@ -21,6 +20,9 @@ MBTI（快速刻板印象）姑且是INTJ<br>
 > ### FAQ
 Q:『中世纪狐』的由来
 
+
+
+![BANNER](https://medievulpes.github.io/Miracle-22/img/BANNER.PNG "中世纪狐")
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
