@@ -10,13 +10,14 @@
 </p>
 
 ##### Repository
-[🤎](https://medievulpes.github.io/OikaDion/)梦向网页 <code>🔛长期更新/Always Updating</code><br>
-[⚜️](https://medievulpes.github.io/Miracle-22/)/[💠](https://medievulpes.github.io/Tarot/)推角图鉴 <code>🔛建设中/Under Construction</code>
+[⏳](https://medievulpes.github.io/OikaDion/)梦向网页 <code>🔛长期更新/Always Updating</code><br>
+[💎](https://medievulpes.github.io/Miracle-22/)推角图鉴 <code>🔛建设中/Under Construction</code><br>
+[🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
 
 ##### OC
-[🔴](https://medievulpes.github.io/LD/)连锁失衡 <code>✔️已完成/Completed</code><br>
-[🟢](https://medievulpes.github.io/RC/)收束辐射 <code>🔛建设中/Under Construction</code><br>
-[🔵](https://medievulpes.github.io/ME/)月色逃亡 <code>🔜没开始/Not Even Close</code><br>
+[❤️](https://medievulpes.github.io/LD/)连锁失衡 <code>✔️已完成/Completed</code><br>
+[💚](https://medievulpes.github.io/RC/)收束辐射 <code>🔛建设中/Under Construction</code><br>
+[💙](https://medievulpes.github.io/ME/)月色逃亡 <code>🔜没开始/Not Even Close</code><br>
 
 ##### FAQ
 <p>
