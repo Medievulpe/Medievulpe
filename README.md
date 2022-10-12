@@ -9,7 +9,6 @@ MBTI（快速刻板印象）姑且是INTJ<br>
 
 > ### Repository
 [⏳](https://medievulpes.github.io/OikaDion/)梦向网页 <code>🔛长期更新/Always Updating</code><br>
-[💎](https://medievulpes.github.io/Miracle-22/)推角图鉴 <code>🔛建设中/Under Construction</code><br>
 [🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
 
 > ### OC
