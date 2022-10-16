@@ -25,7 +25,7 @@ MBTI（快速刻板印象）姑且是INTJ<br>
 
 > ###### To Be Continue
 
-![BANNER](https://medievulpes.github.io/Miracle-22/img/BANNER.PNG "中世纪狐")
+![BANNER](https://medievulpes.github.io/Tarot/img/BANNER.PNG "中世纪狐")
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
