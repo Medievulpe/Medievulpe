@@ -8,7 +8,7 @@
 有严重同担拒梦倾向要注意
 
 > ### Repository
-[⏳](https://medievulpes.github.io/OikaDion/)梦向网页 <code>🔛长期更新/Always Updating</code><br>
+[⏳](https://oikadion.vercel.app)梦向网页 <code>🔛长期更新/Always Updating</code><br>
 [🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
 
 > ### OC
