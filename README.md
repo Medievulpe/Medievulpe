@@ -42,7 +42,7 @@
 
 > ###### To Be Continue
 
-![BANNER](https://medievulpes.github.io/Tarot/3e30c9b6b0820f4bda08d7da0f53cf0238c470ef/img/BANNER.PNG "中世纪狐")
+![BANNER](https://medievulpes.github.io/Tarot/img/BANNER.PNG "中世纪狐")
 <!--
 **Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
