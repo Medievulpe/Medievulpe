@@ -11,6 +11,8 @@
 [⏳](https://oikadion.vercel.app)梦向网页 <code>🔛长期更新/Always Updating</code><br>
 [🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
 
+![](https://img.shields.io/badge/ハイキュー-及川徹-6AB7A7)　![](https://img.shields.io/badge/あんスタ-月永レオ-EC6D51) ![](https://img.shields.io/badge/-朔間凛月-001E43) ![](https://img.shields.io/badge/-瀬名泉-BBDBF3) ![](https://img.shields.io/badge/-鳴上嵐-EDDE7B) ![](https://img.shields.io/badge/-朱桜司-942343) ![](https://img.shields.io/badge/-斎宮宗-E3ACAE) ![](https://img.shields.io/badge/-伏見弓弦-3E62AD) ![](https://img.shields.io/badge/-七種茨-74325C)　![](https://img.shields.io/badge/ブラスタ-ギィ-E9CD9B) ![](https://img.shields.io/badge/-玻璃-15A278) ![](https://img.shields.io/badge/-晶-7AAEE0) ![](https://img.shields.io/badge/-リンドウ-18929F) ![](https://img.shields.io/badge/-マイカ-CB3889)　![](https://img.shields.io/badge/ヤリ部-百合絢斗-FF3BE8)　![](https://img.shields.io/badge/キンプリ-十王院カケル-CB6817)　![](https://img.shields.io/badge/ツイステ-フロイド-9187CB) ![](https://img.shields.io/badge/-ジェイド-9187CB)　![](https://img.shields.io/badge/文スト-フランシス・F-F6D231)　![](https://img.shields.io/badge/FGO-クー・フーリン-4982C7) ![](https://img.shields.io/badge/-ジェームズ・モリアーティ-A4A59D)　![](https://img.shields.io/badge/ヒロアカ-爆豪勝己-E45602) ![](https://img.shields.io/badge/-切島鋭児郎-BA3526)　![](https://img.shields.io/badge/ヒプマイ-入間銃兎-014EFF) ![](https://img.shields.io/badge/-有栖川帝統-FFC801)　![](https://img.shields.io/badge/エースリー-皇天馬-F5A31C)　![](https://img.shields.io/badge/ダンガンロンパ-田中眼蛇夢-874968)
+
 > ### OC
 [❤️](https://medievulpes.github.io/LD/)连锁失衡 <code>✔️已完成/Completed</code><br>
 [💚](https://medievulpes.github.io/RC/)收束辐射 <code>🔛建设中/Under Construction</code><br>
@@ -43,17 +45,3 @@
 > ###### To Be Continue
 
 ![BANNER](https://medievulpes.github.io/Tarot/img/BANNER.PNG "中世纪狐")
-<!--
-**Medievulpe/Medievulpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
