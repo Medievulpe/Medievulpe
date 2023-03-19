@@ -39,6 +39,10 @@
     同样的道理，如果把我本人压成一张纸片，反映的也只是我的一个侧面。
     你能证明纸片人看我时看到的不是我自设的那个模样吗？
     至于为什么是吸血鬼，很多设定是事出有因的（目移
+    
+> ### Demo
+
+![DEMO](https://github.com/Medievulpes/Medievulpes/blob/main/demo.gif)<br>
 
 ##### 回避范围
 
