@@ -12,8 +12,8 @@
 [🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
 
 > ### OC
-[❤️](https://medievulpes.github.io/LD/)连锁失衡 <code>✔️已完成/Completed</code><br>
-[💚](https://medievulpes.github.io/RC/)收束辐射 <code>🔛建设中/Under Construction</code><br>
+[❤️]((https://l-d.vercel.app/)连锁失衡 <code>✔️已完成/Completed</code><br>
+[💚](https://r-c.vercel.app)收束辐射 <code>🔛建设中/Under Construction</code><br>
 [💙](https://medievulpes.github.io/ME/)月色逃亡 <code>🔜没开始/Not Even Close</code><br>
 
 > ### FAQ
