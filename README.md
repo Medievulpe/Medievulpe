@@ -12,14 +12,14 @@
 [🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
 
 > ### OC
-[❤️](https://l-d.vercel.app/)连锁失衡 <code>✔️已完成/Completed</code><br>
-[💚](https://r-c.vercel.app)收束辐射 <code>🔛建设中/Under Construction</code><br>
-[💙](https://medievulpes.github.io/ME/)月色逃亡 <code>🔜没开始/Not Even Close</code><br>
+[❤️](https://medievulpes.github.io/LD/)连锁失衡 <code>✔️已完成/Completed =暂不公开=</code><br>
+[💚](https://medievulpes.github.io/RC/)收束辐射 <code>🔛建设中/Under Construction =暂不公开=</code><br>
+[💙](https://medievulpes.github.io/ME/)月色逃亡 <code>🔜没开始/Not Even Close =暂不公开=</code><br>
 
 > ### FAQ
 > 
 <details>
- <summary>点击展开</summary>
+ <summary>展开</summary>
     
 ###### Q：关于『中世纪狐』的由来
 
