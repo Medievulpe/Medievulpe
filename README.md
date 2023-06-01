@@ -13,7 +13,7 @@
 
 > ### Repository
 [⏳](https://oikadion.vercel.app)梦向网页 <code>🔛长期更新/Always Updating</code><br>
-[🔮](https://medievulpes.github.io/Tarot/)推角塔罗 <code>🔛建设中/Under Construction</code>
+[🔮](https://tarot-medievulpes.vercel.app)推角塔罗 <code>✔️已完成/Completed</code>
 
 > ### Demo
     
