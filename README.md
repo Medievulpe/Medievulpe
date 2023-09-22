@@ -15,7 +15,7 @@
 
 > ### Demo
     
-![DEMO](https://github.com/Medievulpes/Medievulpes/blob/main/demo.gif)<br>
+![DEMO](https://github.com/Medievulpes/Medievulpes/blob/main/Demo.gif)<br>
 
 > ### OC
 [❤️](https://l-d.vercel.app)连锁失衡 <code>✔️已完成/Completed</code><br>
